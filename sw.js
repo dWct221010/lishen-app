@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lishen-cache-v1';
+const CACHE_NAME = 'lishen-cache-v2';
 const urlsToCache = [
   './',
   './index.html',
